@@ -1,0 +1,60 @@
+<svg width="23" height="22" xmlns="http://www.w3.org/2000/svg">
+ <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+
+ <title>Like</title>
+ <desc>Created with Sketch.</desc>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="24" width="25" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g fill-rule="evenodd" fill="none" id="Web">
+   <g stroke-width="1.44" stroke="#000000" id="Home">
+    <g id="Group-3">
+     <g id="Group-2">
+      <g id="Like,-comment,-send,-collect">
+       <path id="Like" d="m11.44839,21.0625l-1.51501,-1.38845c-5.38093,-4.93614 -8.93338,-8.19346 -8.93338,-12.17933c0,-3.25732 2.52329,-5.80722 5.74662,-5.80722c1.81802,0 3.5629,0.85525 4.70177,2.20146c1.13888,-1.34621 2.88376,-2.20146 4.70178,-2.20146c3.22333,0 5.74662,2.5499 5.74662,5.80722c0,3.98587 -3.55245,7.24319 -8.93338,12.17933l-1.51502,1.38845z"/>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+  <polyline stroke-linecap="round" id="svg_6" points="11.79045388713605,9.861889109064933 11.79045388713605,9.861889109064933 11.79045388713605,9.861889109064933 " stroke-width="1.5" stroke="#000" fill="none"/>
+  <path d="m12.107312,9.70346c0,0 0.842417,-1.638826 0.950577,-1.795533c0.258054,-0.373878 0.473941,-0.476371 0.686527,-0.739337c0.074239,-0.091832 0.158429,-0.10562 0.316858,-0.264049l0.105619,-0.05281" id="svg_7" stroke-width="1.5" stroke="#000" fill="none"/>
+  <polyline stroke-linecap="round" id="svg_12" points="5.8229479272700395,6.851731235504204 5.8229479272700395,6.851731235504204 " stroke-width="1.5" stroke="#000" fill="none"/>
+  <polyline stroke-linecap="round" id="svg_13" points="8.821157060393965,8.076947448401164 8.821157060393965,8.076947448401164 " stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="round" stroke-linejoin="undefined" id="svg_14" y2="10.577202" x2="16.44098" y1="10.339082" x1="7.154321" stroke-width="1.5" stroke="#000" fill="none"/>
+  <polyline stroke-linecap="round" id="svg_15" points="6.678081878804193,4.147976282153248 6.678081878804193,4.147976282153248 " stroke-width="1.5" stroke="#000" fill="none"/>
+  <path d="m8.702097,5.338573c0,0 0.190753,0.332774 1.071538,0.714358c1.485932,0.643754 3.214613,0.476239 4.28615,0.476239c0.833419,0 1.785896,0 2.381194,0l0,-0.11906l0.119061,-0.23812" id="svg_16" stroke-width="1.5" stroke="#ff0000" fill="none"/>
+  <path d="m10.249874,13.791815c0,0 2.262135,-1.190598 5.000508,-2.976494l1.190597,-1.190597" id="svg_17" stroke-width="1.5" stroke="#ff0000" fill="none"/>
+  <ellipse ry="4.34568" rx="4.5838" id="svg_18" cy="10.279552" cx="8.999747" stroke-width="1.5" stroke="#ff0000" fill="#ff0000"/>
+  <ellipse ry="1.607306" rx="0.654829" id="svg_19" cy="9.565194" cx="8.880687" stroke-width="1.5" stroke="#ff0000" fill="#ff0000"/>
+  <ellipse stroke="#ff0000" ry="4.702859" rx="4.643329" id="svg_20" cy="7.660239" cx="6.797142" stroke-width="1.5" fill="#ff0000"/>
+  <ellipse stroke="#ff0000" ry="4.702859" rx="4.643329" id="svg_21" cy="7.660239" cx="16.083801" stroke-width="1.5" fill="#ff0000"/>
+  <polyline stroke-linecap="round" id="svg_23" points="4.5350066972144205,12.244038079270169 4.5350066972144205,12.244038079270169 " fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#ff0000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_25" y2="19.030443" x2="12.273889" y1="11.053441" x1="4.177828" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#ff0000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_26" y2="19.506682" x2="11.91671" y1="16.530188" x1="8.702097" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#ff0000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_27" y2="16.05395" x2="14.774144" y1="19.744801" x1="10.964232" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#ff0000" fill="none"/>
+  <ellipse stroke="#ff0000" ry="4.46474" rx="3.214612" id="svg_28" cy="13.136986" cx="10.726113" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <ellipse stroke="#ff0000" ry="3.631322" rx="4.52427" id="svg_29" cy="10.160493" cx="14.893203" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <line stroke="#ff0000" stroke-linecap="null" stroke-linejoin="null" id="svg_30" y2="16.411129" x2="8.463978" y1="11.767799" x1="4.415947" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <ellipse stroke="#ff0000" ry="5.060039" rx="1.964485" id="svg_32" cy="11.827329" cx="11.500001" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <ellipse ry="3.750382" rx="5.595807" id="svg_33" cy="12.660747" cx="11.440471" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#ff0000" fill="none"/>
+  <ellipse rx="23.790473" id="svg_34" cy="9.743784" cx="11.895236" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#ff0000" fill="none"/>
+  <ellipse id="svg_35" cy="8.791306" cx="9.654575" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#ff0000" fill="none"/>
+  <ellipse ry="2.857434" rx="3.393202" id="svg_36" cy="12.005919" cx="10.190344" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#ff0000" fill="none"/>
+  <ellipse ry="3.333673" rx="2.738374" id="svg_37" cy="12.005919" cx="11.559531" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#ff0000" fill="none"/>
+  <ellipse ry="1.785896" rx="2.738374" id="svg_38" cy="12.958396" cx="12.750128" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#ff0000" fill="none"/>
+  <polyline stroke-linecap="round" id="svg_39" points="5.1303053587671315,12.958396473133426 5.1303053587671315,12.958396473133426 " fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#ff0000" fill="none"/>
+  <polyline stroke-linecap="round" id="svg_40" points="5.606544288009303,13.434635402375598 5.606544288009303,13.434635402375598 " fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#ff0000" fill="none"/>
+  <polyline stroke-linecap="round" id="svg_42" points="5.963723484940935,13.791814599307223 5.963723484940935,13.791814599307223 " fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#ff0000" fill="none"/>
+  <polyline stroke-linecap="round" id="svg_43" points="4.415946964903874,11.529679685406911 4.415946964903874,11.529679685406911 " fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#ff0000" fill="none"/>
+  <polyline stroke-linecap="round" id="svg_44" points="4.296887232593335,11.529679685406911 4.296887232593335,11.529679685406911 " fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#ff0000" fill="none"/>
+  <polyline stroke-linecap="round" id="svg_45" points="4.296887232593335,11.64873941771745 4.296887232593335,11.64873941771745 " fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#ff0000" fill="none"/>
+  <polyline stroke-linecap="round" id="svg_46" points="4.773126161835506,12.601217276201794 4.773126161835506,12.601217276201794 " fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#ff0000" fill="none"/>
+  <polyline stroke-linecap="round" id="svg_47" points="3.9397080356617025,11.64873941771745 3.9397080356617025,11.64873941771745 " fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#ff0000" fill="none"/>
+  <polyline stroke-linecap="round" id="svg_48" points="15.012263140542196,15.815830048586456 15.012263140542196,15.815830048586456 " fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#ff0000" fill="none"/>
+  <polyline stroke-linecap="round" id="svg_49" points="17.155338322131975,13.672754866996684 17.155338322131975,13.672754866996684 " fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#ff0000" fill="none"/>
+ </g>
+</svg>
